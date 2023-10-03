@@ -1,0 +1,134 @@
+Java
+
+Java é uma linguagem de programação orientada a objetos que é compilada para bytecode, que é uma forma intermediária de código que pode ser executado em qualquer máquina virtual Java (JVM). Java é uma linguagem robusta e segura que é amplamente utilizada em uma variedade de aplicações, incluindo desenvolvimento web, desktop e mobile.
+Código mínimo:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+Execução:
+javac HelloWorld.java
+java HelloWorld
+
+Hello, world!
+
+Python
+
+Python é uma linguagem de programação interpretada que é conhecida por sua sintaxe concisa e legibilidade. Python é uma linguagem versátil que pode ser usada para uma variedade de tarefas, incluindo desenvolvimento web, ciência de dados, aprendizado de máquina e automação.
+Código mínimo:
+print("Hello, world!")
+
+Java
+
+Java é uma linguagem de programação orientada a objetos que é compilada para bytecode, que é uma forma intermediária de código que pode ser executado em qualquer máquina virtual Java (JVM). Java é uma linguagem robusta e segura que é amplamente utilizada em uma variedade de aplicações, incluindo desenvolvimento web, desktop e mobile.
+
+Código mínimo:
+
+Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
+Execução:
+
+javac HelloWorld.java
+java HelloWorld
+
+Hello, world!
+Python
+
+Python é uma linguagem de programação interpretada que é conhecida por sua sintaxe concisa e legibilidade. Python é uma linguagem versátil que pode ser usada para uma variedade de tarefas, incluindo desenvolvimento web, ciência de dados, aprendizado de máquina e automação.
+
+Código mínimo:
+
+Python
+print("Hello, world!")
+
+Execução:
+python hello_world.py
+
+Hello, world!
+
+C++
+
+C++ é uma linguagem de programação de propósito geral que é compilada para código de máquina nativo. C++ é uma linguagem poderosa e flexível que pode ser usada para uma variedade de tarefas, incluindo desenvolvimento de sistemas operacionais, jogos e aplicativos de alto desempenho.
+Código mínimo:
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, world!" << std::endl;
+  return 0;
+}
+
+Java
+
+Java é uma linguagem de programação orientada a objetos que é compilada para bytecode, que é uma forma intermediária de código que pode ser executado em qualquer máquina virtual Java (JVM). Java é uma linguagem robusta e segura que é amplamente utilizada em uma variedade de aplicações, incluindo desenvolvimento web, desktop e mobile.
+
+Código mínimo:
+
+Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+Use o código com cuidado. Saiba mais
+Execução:
+
+javac HelloWorld.java
+java HelloWorld
+
+Hello, world!
+Python
+
+Python é uma linguagem de programação interpretada que é conhecida por sua sintaxe concisa e legibilidade. Python é uma linguagem versátil que pode ser usada para uma variedade de tarefas, incluindo desenvolvimento web, ciência de dados, aprendizado de máquina e automação.
+
+Código mínimo:
+
+Python
+print("Hello, world!")
+Use o código com cuidado. Saiba mais
+Execução:
+
+python hello_world.py
+
+Hello, world!
+C++
+
+C++ é uma linguagem de programação de propósito geral que é compilada para código de máquina nativo. C++ é uma linguagem poderosa e flexível que pode ser usada para uma variedade de tarefas, incluindo desenvolvimento de sistemas operacionais, jogos e aplicativos de alto desempenho.
+
+Código mínimo:
+
+C++
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, world!" << std::endl;
+  return 0;
+}
+Use o código com cuidado. Saiba mais
+Execução:
+
+g++ hello_world.cpp -o hello_world
+./hello_world
+
+Hello, world!
+
+Diferenças entre Java, Python e C++
+
+Java, Python e C++ são linguagens de programação poderosas e flexíveis, mas apresentam algumas diferenças importantes.
+
+Orientação a objetos: Java e C++ são linguagens orientadas a objetos, enquanto Python não é. Isso significa que Java e C++ usam objetos para representar entidades do mundo real, enquanto Python usa funções e variáveis para representar dados.
+
+Compilação: Java e C++ são linguagens compiladas, enquanto Python é uma linguagem interpretada. Isso significa que Java e C++ são convertidos em código de máquina antes da execução, enquanto Python é executado linha por linha.
+
+Sintaxe: A sintaxe de Java é semelhante à de C++. Python tem uma sintaxe própria que é mais concisa e legível do que as outras duas linguagens.
+
+Áreas de aplicação: Java é amplamente utilizada em desenvolvimento web, desktop e mobile. Python é usada para uma variedade de tarefas, incluindo desenvolvimento web, ciência de dados, aprendizado de máquina e automação. C++ é usada para desenvolvimento de sistemas operacionais, jogos e aplicativos de alto desempenho.
+
+
+
+

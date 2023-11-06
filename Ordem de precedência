@@ -1,0 +1,16 @@
+A ordem de precedência de operadores é uma regra que determina a ordem em que as operações em uma expressão serão avaliadas. Essa regra é importante para garantir que as expressões sejam avaliadas de forma consistente e previsível.Em geral, os operadores com maior precedência são avaliados primeiro, seguidos pelos operadores com precedência menor. Se dois operadores com a mesma precedência aparecerem na mesma expressão, eles serão avaliados da esquerda para a direita.
+A ordem de precedência de operadores pode ser dividida em três categorias:
+Operadores aritméticos
+Operadores de comparação
+Operadores lógicos
+Operadores aritméticos
+A ordem de precedência dos operadores aritméticos é a seguinte:
+Parenteses
+Potenciação
+Multiplicação e divisão
+Adição e subtração
+Por exemplo, a expressão 10 + 2 * 3 será avaliada como (10 + (2 * 3)). Isso ocorre porque a multiplicação tem precedência sobre a adição.
+A ordem de precedência de operadores pode ser modificada usando parênteses. Os parênteses têm precedência sobre todos os outros operadores, portanto, qualquer operação contida entre parênteses será avaliada primeiro.
+Por exemplo, a expressão 10 + 2 * 3 é avaliada como 16. No entanto, a expressão (10 + 2) * 3 é avaliada como 24. Isso ocorre porque a expressão entre parênteses (10 + 2) é avaliada primeiro, resultando em um valor de 12. Em seguida, a multiplicação é realizada, resultando em um valor final de 24.
+Além de parênteses, existem algumas linguagens de programação que permitem modificar a ordem de precedência usando operadores de agrupamento. Esses operadores são geralmente precedidos por um ponto (.) e permitem que os programadores definam sua própria ordem de precedência para grupos específicos de operadores.
+Por exemplo, a linguagem de programação Python permite o uso do operador de agrupamento @ para modificar a ordem de precedência dos operadores aritméticos. A expressão 10 + 2 * 3 @ 4 é avaliada como 23. Isso ocorre porque a multiplicação é avaliada primeiro, seguida pela adição.
